@@ -26,8 +26,8 @@ The notebook showcases a system that uses OpenAI's GPT model to evaluate complia
 
 1. Clone this repository:
    ```
-   git clone https://github.com/datakinetic/medidator-pattern.git
-   cd ai-compliance-mediator-notebook
+   git clone https://github.com/datakinetic/mediator-pattern.git
+   cd mediator-pattern
    ```
 
 2. Install the required packages:
